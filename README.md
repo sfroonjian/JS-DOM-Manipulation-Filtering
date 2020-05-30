@@ -2,7 +2,8 @@
 A company collected eye-witness reports of UFO sightings, and they want the information available online. However, the collection is too large to search through manually. The purpose of this project is to use JavaScript, HTML, CSS, and D3.js to create a dynamic table based upon the dataset of eye-witness reports. The table should also allow users to filter the data for specific values.
 
 ### How to run the code:
-1. Run the URL https://sfroonjian.github.io/javascript-challenge/ in your browser. \n\n
+1. Run the URL https://sfroonjian.github.io/javascript-challenge/ in your browser.
+<!--  -->
 **OR**
 1. Save all of the files of the repository, except the files in the "screenshots" folder, to your computer.
 1. Open the file, index.html, in your browser.

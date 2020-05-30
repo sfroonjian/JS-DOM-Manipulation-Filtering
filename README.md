@@ -3,6 +3,7 @@ A company collected eye-witness reports of UFO sightings, and they want the info
 
 ### How to run the code:
 1. Run the URL https://sfroonjian.github.io/javascript-challenge/ in your browser.
+1. Play around with the filters on the left hand side of the webpage to view eye-witness reports of UFO sightings.
 <!--  -->
 **OR**
 1. Save all of the files of the repository, except the files in the "screenshots" folder, to your computer.

@@ -30,11 +30,11 @@ function runEnter() {
   // checks to see which items in the dataset match the criteria the user inputted
   // if the user did not input anything for a certain criteria, it will just take every piece of data for that category
   var filteredData = tableData.filter(sighting => {
-      return ((sighting.datetime === inputValueDate || inputValueDate === "none")
+      return ((sighting.datetime === inputValueDate || inputValueDate === "all")
         && (sighting.city === inputValueCity || inputValueCity === "")
-        && (sighting.state === inputValueState || inputValueState === "none")
-        && (sighting.country === inputValueCountry || inputValueCountry === "none")
-        && (sighting.shape === inputValueShape || inputValueShape === "none"))
+        && (sighting.state === inputValueState || inputValueState === "all")
+        && (sighting.country === inputValueCountry || inputValueCountry === "all")
+        && (sighting.shape === inputValueShape || inputValueShape === "all"))
   });
 
   console.log(filteredData);

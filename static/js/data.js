@@ -12,7 +12,7 @@ var data = [{
     city: "bonita",
     state: "ca",
     country: "us",
-    shape: "light",
+    shape: "`light`",
     durationMinutes: "13 minutes",
     comments: "Three bright red lights witnessed floating stationary over San Diego New Years Day 2010"
   },
